@@ -1,1 +1,15 @@
 1:52:00
+
+3 phases of a security review:
+    Initial Review:
+        - Scoping
+        - Reconnaissance
+        - Vulnerability identification
+        - Reporting
+    Protocol fixes:
+        - Fixes issues
+        - Retests and adds tests
+    Mitigation Review:
+        - Reconnaissance
+        - Vulnerability identification
+        - Reporting
